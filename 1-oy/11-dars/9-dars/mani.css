@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+}
+
+th{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+    background-color: #ffff00;
+}
+
+
+td{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+.aa{
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
